@@ -1,9 +1,4 @@
-import pandas as pd
-import sqlite3
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-import os
-import time
+pandas==1.5.3
+selenium==4.8.2
+openpyxl==3.1.2
+webdriver-manager==3.8.5
